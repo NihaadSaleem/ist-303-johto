@@ -33,7 +33,7 @@ This dashboard will:
 
 Stakeholders
 
-- University Administration**: End-users benefiting from engagement analytics and alumni relations.  
+- University Administration: End-users benefiting from engagement analytics and alumni relations.  
 - Students: Users seeking mentors, career pathways, or networking opportunities.  
 - Alumni: Individuals whose data is featured; potential contributors/mentors.  
 - AI Squared: External AI company developing the Insight Dashboard with RAG & LLM integration.  
