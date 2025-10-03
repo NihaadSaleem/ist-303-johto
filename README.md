@@ -59,7 +59,8 @@ Project Timeline
 - Part A (Ideation & Planning): Due 9/11
 
 
-- Part B (Design & Implementation Start): Due 10/2
+
+Part B (Design & Implementation Start): Due 10/2
 Team JOHTO Project: Part B - Alumni Network AI Dashboard
 1. Decompose User Stories into Tasks
 -User Story 1: Alumni (Brandon Medina Assigned)
@@ -178,7 +179,7 @@ As of October 1st
 
 
 
-- US2: Student mentor suggestions → Tasks: Create synthetic student profiles, implement AI matching logic, connect RAG/SQL backend, test queries.
+US2: Student mentor suggestions → Tasks: Create synthetic student profiles, implement AI matching logic, connect RAG/SQL backend, test queries.
 Task 2: PJ, Nihaad
 
 Define assistant system prompt (role, goals, privacy rules, response style) and few-shot examples.
