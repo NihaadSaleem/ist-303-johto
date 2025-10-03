@@ -64,7 +64,7 @@ Part B (Design & Implementation Start): Due 10/2
 Team JOHTO Project: Part B - Alumni Network AI Dashboard
 1. Decompose User Stories into Tasks
 -User Story 1: Alumni (Brandon Medina Assigned)
-User Story: “As an alumnus of CGU, I want to give back by mentoring a student. I want to be able to create an account, log in, and see a dashboard of students I match with that have similar classes I took, or are interested in the industry I work in, or have the same degree concentration as me, or are in my location, so that I can connect with them.”
+-User Story: “As an alumnus of CGU, I want to give back by mentoring a student. I want to be able to create an account, log in, and see a dashboard of students I match with that have similar classes I took, or are interested in the industry I work in, or have the same degree concentration as me, or are in my location, so that I can connect with them.”
 
 Task 1 - Define database requirements - Estimated Hours 3
 	Alumni, Student, Classes Taken, Industry, Degree Concentration, Job Location
