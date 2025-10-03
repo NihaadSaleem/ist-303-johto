@@ -230,7 +230,7 @@ Document how to regenerate synthetic data
 Document how to run the dashboard locally
 Add screenshots of charts in readme
 
-- User Story 4: Jin, Nihaad– Project mgmt → Tasks: Schedule syncs with AI Squared, document progress, manage GitHub repo.
+User Story 4: Jin, Nihaad– Project mgmt → Tasks: Schedule syncs with AI Squared, document progress, manage GitHub repo.
 User Story: As a project developer responsible for analytics, I want to integrate alumni and student data into a dashboard prototype so that administrators and alumni can visualize distributions, trends, and mentorship participation during development, ensuring the system’s insights are validated before connecting to real data.
 Task 1 – Environment Setup & Structure (4 hrs)
 Create frontend/ folder for dashboard code.
@@ -256,6 +256,7 @@ Task 5 – Documentation & Testing (4 hrs)
 Write README.md instructions (run dashboard, dependencies).
 Add screenshots of charts as proof for Milestone 1.0.
 Use Flask test client to validate routes.
+
 - US: Developer RAG integration → Tasks: Set up RAG pipeline or SQL fallback, connect 10 profiles, validate retrieval quality. (Optional)
 
 2. Milestone 1.0 Features
